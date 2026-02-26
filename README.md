@@ -24,7 +24,7 @@ Former Associate Professor → now building production-grade ML systems for heal
 
 **Tech:** Python · scikit-learn · XGBoost · LightGBM · SHAP · MLflow · Evidently · Streamlit · Docker
 
-🔗 [View Project](https://github.com/Khalida-DS/patient-survival-prediction-ml) · 🚀 [Live Demo](#)
+🔗 [View Project](https://github.com/Khalida-DS/patient-survival-prediction-ml) · 🚀 [Live Demo](https://patient-survival-prediction-ml-mzrrwnlfgjsjnvxygywcoa.streamlit.app/)
 
 ---
 
